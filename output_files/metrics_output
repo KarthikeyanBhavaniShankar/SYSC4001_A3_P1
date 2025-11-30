@@ -1,0 +1,32 @@
+=========== METRICS REPORT ===========
+
+Process 1:
+  Arrival Time      : 0
+  Start Time        : 0
+  Finish Time       : 722
+  Waiting Time      : 162
+  Response Time     : 0
+  Turnaround Time   : 722
+
+Process 2:
+  Arrival Time      : 3
+  Start Time        : 21
+  Finish Time       : 748
+  Waiting Time      : 225
+  Response Time     : 18
+  Turnaround Time   : 745
+
+Process 3:
+  Arrival Time      : 5
+  Start Time        : 47
+  Finish Time       : 779
+  Waiting Time      : 249
+  Response Time     : 42
+  Turnaround Time   : 774
+
+=========== AVERAGES ===========
+Average Waiting Time      : 212.00
+Average Response Time     : 20.00
+Average Turnaround Time   : 747.00
+Throughput                : 0.0039 processes per time unit
+=========================================
